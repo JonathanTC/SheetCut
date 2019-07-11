@@ -1,0 +1,12 @@
+C:\Users\thiro\source\repos\SheetCut\SheetCut\bin\Release\Serializer.cs
+C:\Users\thiro\source\repos\SheetCut\SheetCut\bin\Release\SheetCut.exe.config
+C:\Users\thiro\source\repos\SheetCut\SheetCut\bin\Release\SheetCut.exe
+C:\Users\thiro\source\repos\SheetCut\SheetCut\bin\Release\SheetCut.pdb
+C:\Users\thiro\source\repos\SheetCut\SheetCut\obj\Release\SheetCut.CollisionEditor.resources
+C:\Users\thiro\source\repos\SheetCut\SheetCut\obj\Release\SheetCut.Form1.resources
+C:\Users\thiro\source\repos\SheetCut\SheetCut\obj\Release\SheetCut.Properties.Resources.resources
+C:\Users\thiro\source\repos\SheetCut\SheetCut\obj\Release\SheetCut.csproj.GenerateResource.cache
+C:\Users\thiro\source\repos\SheetCut\SheetCut\obj\Release\SheetCut.csproj.CoreCompileInputs.cache
+C:\Users\thiro\source\repos\SheetCut\SheetCut\obj\Release\SheetCut.exe
+C:\Users\thiro\source\repos\SheetCut\SheetCut\obj\Release\SheetCut.pdb
+C:\Users\thiro\source\repos\SheetCut\SheetCut\obj\Release\SheetCut.csprojAssemblyReference.cache
